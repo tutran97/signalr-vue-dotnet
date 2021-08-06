@@ -34,4 +34,5 @@ yarn build
 
 ### Customize configuration
 
+https://github.com/joelmandell/signalr
 See [Configuration Reference](https://cli.vuejs.org/config/).
